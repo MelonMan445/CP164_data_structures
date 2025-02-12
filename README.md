@@ -1,5 +1,5 @@
 # CP164_data_structures
-Python data structures created In the course CP164
+Adding all data structures created In the course CP164
 
  Pre Midterm data structures with all tests passed
  - Stack array 27/27
